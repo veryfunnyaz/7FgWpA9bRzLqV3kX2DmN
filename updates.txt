@@ -1,0 +1,9 @@
+[+] Added Aimbot after X shots
+
+[+] Optimzed Custom Scope
+
+[=] Various fixes across the Lua
+
+Stay tuned for a new Lua release!
+
+05.10.2024
